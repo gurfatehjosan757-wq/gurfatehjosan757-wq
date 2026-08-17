@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gurfatehjosan757-wq&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=gurfatehjosan757-wq&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" />
 
 <br><br>
 
@@ -46,7 +46,7 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gurfatehjosan757-wq&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gurfatehjosan757-wq&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
