@@ -206,7 +206,7 @@ Fetches live weather information using an external weather API with a Spring Boo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gurfatehjosan757-wq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=gurfatehjosan757-wq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" alt="GitHub Trophies" />
 
 </div>
 
