@@ -92,3 +92,147 @@
 <sub>⭐️ From [gurfatehjosan757-wq](https://github.com/gurfatehjosan757-wq) · Built with [ProfileForge](https://profileforge-readme.vercel.app/)</sub>
 
 </div>
+
+
+## ⚡ PROJECTS.exe
+
+<div align="center">
+
+<a href="YOUR_PROJECT_1_GITHUB_URL">
+<img src="https://img.shields.io/badge/ResumeCraft-AI%20Resume%20Builder-e5289e?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_PROJECT_2_GITHUB_URL">
+<img src="https://img.shields.io/badge/Employee%20Management-System-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_PROJECT_3_GITHUB_URL">
+<img src="https://img.shields.io/badge/Campus%20Lost%20%26%20Found-00d9ff?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="50%" align="center">
+
+### 🤖 ResumeCraft
+
+<a href="YOUR_RESUMECRAFT_URL">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gurfatehjosan757-wq&repo=YOUR_RESUMECRAFT_REPO&theme=synthwave&hide_border=true" />
+</a>
+
+<br>
+
+**AI Resume Builder & Analyzer**
+
+Create ATS-friendly resumes, analyze them, and improve your chances of getting shortlisted.
+
+`React` `JavaScript` `AI` `Tailwind CSS`
+
+<br>
+
+<a href="YOUR_RESUMECRAFT_URL">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-e5289e?style=for-the-badge" />
+</a>
+
+<a href="YOUR_RESUMECRAFT_GITHUB_URL">
+<img src="https://img.shields.io/badge/💻%20SOURCE-111111?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 👨‍💻 Employee Management System
+
+<a href="YOUR_EMPLOYEE_REPO_URL">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gurfatehjosan757-wq&repo=YOUR_EMPLOYEE_REPO&theme=synthwave&hide_border=true" />
+</a>
+
+<br>
+
+**Full-Stack Employee Management**
+
+A full-stack application for creating, viewing, updating and managing employee records.
+
+`React` `Spring Boot` `MySQL` `Axios`
+
+<br>
+
+<a href="YOUR_EMPLOYEE_REPO_URL">
+<img src="https://img.shields.io/badge/💻%20SOURCE-111111?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🔎 Campus Lost & Found
+
+<a href="YOUR_LOST_FOUND_REPO_URL">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gurfatehjosan757-wq&repo=YOUR_LOST_FOUND_REPO&theme=synthwave&hide_border=true" />
+</a>
+
+<br>
+
+**Campus Lost & Found Management System**
+
+A desktop application for reporting lost/found items, searching listings, claims and admin approval.
+
+`Python` `Tkinter` `MySQL`
+
+<br>
+
+<a href="YOUR_LOST_FOUND_REPO_URL">
+<img src="https://img.shields.io/badge/💻%20SOURCE-111111?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌦️ Weather Application
+
+<a href="YOUR_WEATHER_REPO_URL">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gurfatehjosan757-wq&repo=YOUR_WEATHER_REPO&theme=synthwave&hide_border=true" />
+</a>
+
+<br>
+
+**Real-Time Weather Application**
+
+Fetches live weather information using an external weather API with a Spring Boot backend.
+
+`Java` `Spring Boot` `Thymeleaf` `API`
+
+<br>
+
+<a href="YOUR_WEATHER_REPO_URL">
+<img src="https://img.shields.io/badge/💻%20SOURCE-111111?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/gurfatehjosan757-wq?tab=repositories">
+<img src="https://img.shields.io/badge/⚡%20VIEW%20ALL%20PROJECTS-e5289e?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
