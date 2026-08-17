@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gurfatehjosan757-wq&theme=synthwave&column=7&margin_w=4&margin_h=4&no_bg=false" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=gurfatehjosan757-wq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" alt="GitHub Trophies" />
 
 </div>
 
